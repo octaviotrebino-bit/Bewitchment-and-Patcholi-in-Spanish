@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Invocar al Wither",
+  "icon": "minecraft:wither_skeleton_skull",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Invoca al Wither.$(br2)Sabiendo las tendencias destructivas del Wither, probablemente querrás hacer esto en un lugar lejos de tu hogar.$(br2)A diferencia de la mayoría de los $(l:bewitchment:rituals/rituals)Rituales$() de invocación, este no requiere un sacrificio."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/summon_wither"
+    }
+  ]
+}

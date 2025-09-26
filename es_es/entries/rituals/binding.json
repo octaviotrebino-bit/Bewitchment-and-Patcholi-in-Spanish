@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Vinculación",
+  "icon": "minecraft:lead",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:rituals/rituals)Ritual$() de Vinculación usa un poder demoníaco mayor para cruzar el alma del lanzador y un animal que aprecia, convirtiéndolo en un familiar. El animal al que se aplica el $(l:bewitchment:rituals/rituals)Ritual$() se define a través de un $(l:bewitchment:tools/taglock)Candado de Etiqueta$().$(br2)Ten en cuenta que no todo puede ser vinculado como un familiar; los posibles familiares generalmente se mencionan en este libro."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/binding",
+      "text": "Vincular un familiar es un paso importante y viene con varios beneficios dependiendo del animal elegido.$(br2)Las entradas para todos los posibles familiares en este libro han sido expandidas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los familiares son mucho más resistentes que el animal promedio, pero de todos modos debes tratar de mantenerlos a salvo.$(br2)Los familiares se pueden notar por las ligeras partículas mágicas que emiten."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/severing",
+      "text": "Se puede lanzar un $(l:bewitchment:rituals/rituals)Ritual$() de Separación, en caso de que desees separarte de tu familiar."
+    }
+  ]
+}

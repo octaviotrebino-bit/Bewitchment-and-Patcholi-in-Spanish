@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello del Juicio",
+  "icon": "bewitchment:judgment_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Activo$() del Juicio daña a cualquier ser impío que lo active."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:judgment_sigil"
+    }
+  ]
+}

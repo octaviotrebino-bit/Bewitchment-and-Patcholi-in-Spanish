@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Propagar",
+  "icon": "minecraft:bone_meal",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() hace que los cultivos, animales y humanos cercanos crezcan.$(br2)A veces es mejor no cuestionar la magia."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/propagate"
+	}
+  ]
+}

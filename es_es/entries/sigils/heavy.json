@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Pesado",
+  "icon": "bewitchment:heavy_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() Pesado aumentará mágicamente el daño por caída en todo lo que lo rodea."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:heavy_sigil"
+    }
+  ]
+}

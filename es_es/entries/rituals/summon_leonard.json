@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Invocar a Leonard",
+  "icon": "bewitchment:leonard_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() invoca al Señor de las $(l:bewitchment:brewing/brewing_basics)Pociones$(), invocando a $(l:bewitchment:creatures/leonard)Leonard$() mismo.$(br2)Asegúrate de mantenerlo alejado de las cosas que aprecias.$(br2)Prepara un $(l:bewitchment:tools/grotesque_stew)Estofado Grotesco$(), en caso de que quieras $(l:bewitchment:tools/grotesque_stew)Comprometerte$() con él.$(br2)El $(l:bewitchment:rituals/rituals)Ritual$() se inicia sacrificando una Oveja con un $(l:bewitchment:tools/athame)Athame$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_leonard"
+	}
+  ]
+}

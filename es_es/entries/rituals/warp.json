@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Teletransportar",
+  "icon": "minecraft:ender_pearl",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este poderoso $(l:bewitchment:rituals/rituals)Ritual$() teletransporta cualquier cosa en su proximidad a una ubicación objetivo.$(br2)Esto funciona muy bien con las $(l:bewitchment:tools/waystone)Piedras de Camino$(), ya que permite teletransportar entidades en lugares remotos.$(br2)Puedes usar un $(l:bewitchment:tools/taglock)Candado de Etiqueta$() o una $(l:bewitchment:tools/waystone)Piedra de Camino$() para este $(l:bewitchment:rituals/rituals)Ritual$()."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/warp"
+    }
+  ]
+}

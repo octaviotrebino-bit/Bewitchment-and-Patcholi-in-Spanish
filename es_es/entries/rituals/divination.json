@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Adivinación",
+  "icon": "minecraft:emerald_ore",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:rituals/rituals)Ritual$() de Adivinación busca en la tierra el bloque específico bajo el glifo central (el que está debajo del bloque al que está adjunto).$(br2)No revelará la posición exacta, solo el recuento.$(br2)Al buscar esos bloques, ten en cuenta que el radio de este $(l:bewitchment:rituals/rituals)Ritual$() está limitado a un fragmento $(l:bewitchment:creatures/cat)en condiciones normales$()."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/divination"
+    }
+  ]
+}

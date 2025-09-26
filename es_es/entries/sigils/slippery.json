@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Resbaladizo",
+  "icon": "bewitchment:slippery_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() Resbaladizo hará que sea imposible para cualquiera afectado manejar correctamente objetos finos como los $(l:bewitchment:tools/taglock)Candados de Etiqueta$(), convirtiéndolo en un método de protección viable."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:slippery_sigil"
+    }
+  ]
+}

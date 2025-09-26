@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Refinar",
+  "icon": "minecraft:blaze_powder",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() invoca a los espíritus del fuego, básicamente convirtiendo el círculo en un crisol muy grande.$(br2)Cualquier objeto arrojado a él se funde como si fuera arrojado a un Horno.$(br2)Este $(l:bewitchment:rituals/rituals)Ritual$() dura unos minutos."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/refine"
+	}
+  ]
+}

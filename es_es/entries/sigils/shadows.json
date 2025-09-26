@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello de Sombras",
+  "icon": "bewitchment:shadows_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() de Sombras proyecta un aura mágica de oscuridad a su alrededor, impidiendo que los $(l:bewitchment:tools/crystal_ball)Cristales de Adivinación$() que apunten cerca de él puedan adivinar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:shadows_sigil"
+    }
+  ]
+}

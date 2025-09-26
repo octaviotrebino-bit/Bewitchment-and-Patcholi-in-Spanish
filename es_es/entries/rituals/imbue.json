@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Imbuir",
+  "icon": "minecraft:enchanted_book",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Un $(l:bewitchment:rituals/rituals)Ritual$() extremadamente poderoso; al invocar a las fuerzas más profundas y oscuras del agua, es capaz de aplicar poderosos encantamientos a los objetos.$(br2)Los objetos a encantar deben ser arrojados al círculo $(o)después$() de que haya comenzado.$(br2)Cada objeto encantado requerirá cinco niveles de experiencia."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/imbue"
+	}
+  ]
+}

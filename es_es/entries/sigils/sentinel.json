@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Centinela",
+  "icon": "bewitchment:sentinel_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "El $(l:bewitchment:sigils/using_sigils)Sello Activo$() Centinela atrapa el espíritu de un $(l:bewitchment:creatures/ghost)Fantasma$(). Cuando se activa, aplicará un debuff aleatorio."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:sentinel_sigil"
+	}
+  ]
+}

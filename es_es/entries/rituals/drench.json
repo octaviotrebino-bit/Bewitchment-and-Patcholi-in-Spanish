@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Empapar",
+  "icon": "minecraft:ghast_tear",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Un $(l:bewitchment:rituals/rituals)Ritual$() que llena el aire con energías de agua, haciendo que todo a su alrededor se moje y extinga las llamas.$(br2)Su alcance es bastante limitado, por lo que generalmente querrás aplicarlo en casos muy especiales donde necesites que algo esté mojado."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/drench"
+	}
+  ]
+}

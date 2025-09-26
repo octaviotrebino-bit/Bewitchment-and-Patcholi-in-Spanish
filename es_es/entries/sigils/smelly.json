@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Oloroso",
+  "icon": "bewitchment:smelly_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() Oloroso es apestoso, haciendo que las entidades hostiles cercanas se muevan hacia él."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:smelly_sigil"
+    }
+  ]
+}

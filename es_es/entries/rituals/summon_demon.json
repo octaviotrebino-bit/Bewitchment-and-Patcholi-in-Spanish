@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Invocar Demonio",
+  "icon": "bewitchment:demon_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() separa a un $(l:bewitchment:creatures/demon)Demonio$() de su hogar infernal sacrificando a un humano usando un $(l:bewitchment:tools/athame)Athame$().$(br2)Los $(l:bewitchment:creatures/demon)Demonios$() ofrecen una variedad de intercambios, pero generalmente te atacarán a menos que uses $(l:bewitchment:tools/besmirched_armor)Armadura Manchada$().$(br2)Si te atacan, manténlos alejados de cualquier cosa inflamable."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/summon_demon"
+    }
+  ]
+}

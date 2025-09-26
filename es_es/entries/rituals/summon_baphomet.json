@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Invocar a Baphomet",
+  "icon": "bewitchment:baphomet_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "A través de un mensajero diabólico, este $(l:bewitchment:rituals/rituals)Ritual$() invoca a $(l:bewitchment:creatures/baphomet)Baphomet$(); querrás mantenerlo alejado de otros seres.$(br2)Prepara un $(l:bewitchment:tools/grotesque_stew)Estofado Grotesco$(), en caso de que quieras $(l:bewitchment:tools/grotesque_stew)Comprometerte$() con él.$(br2)El $(l:bewitchment:rituals/rituals)Ritual$() se inicia sacrificando una Oveja con un $(l:bewitchment:tools/athame)Athame$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/summon_baphomet"
+	}
+  ]
+}

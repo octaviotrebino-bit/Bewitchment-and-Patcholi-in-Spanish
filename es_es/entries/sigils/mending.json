@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello de Remiendo",
+  "icon": "bewitchment:mending_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Remiendo es un $(l:bewitchment:sigils/using_sigils)Sello Activo$().$(br)cuando se activa, le dará Regeneración y Resistencia a quien lo haya activado."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:mending_sigil"
+	}
+  ]
+}

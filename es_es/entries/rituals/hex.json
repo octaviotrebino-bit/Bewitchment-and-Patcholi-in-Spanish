@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Maleficio",
+  "icon": "minecraft:iron_sword",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Al aplicar un simple $(l:bewitchment:rituals/rituals)Ritual$() de maleficio, la energía mágica puede ser compensada. Esto eliminará cualquier encantamiento de un objeto, reparándolo también en el proceso.$(br2)Los objetos afectados por este $(l:bewitchment:rituals/rituals)Ritual$() deben ser arrojados al círculo $(o)después$() de que haya comenzado. Adicionalmente, restablecerá el costo del yunque de los objetos."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/hex"
+	}
+  ]
+}

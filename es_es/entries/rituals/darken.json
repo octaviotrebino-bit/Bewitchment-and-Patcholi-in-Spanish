@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Oscurecer",
+  "icon": "minecraft:obsidian",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() libera una ola de oscuridad. Destruirá cualquier fuente de luz cercana que sea fácilmente rompible."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/darken"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Sequía",
+  "icon": "minecraft:dead_bush",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "El $(l:bewitchment:rituals/rituals)Ritual$() de Sequía seca el aire, deteniendo toda la lluvia.$(br2)Tiene una duración similar a su contraparte, $(l:bewitchment:rituals/deluge)Diluvio$()."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/drought"
+	}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello de Limpieza",
+  "icon": "bewitchment:cleansing_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Activo$() de limpieza elimina todos los efectos de poción dañinos en quien lo activa."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:cleansing_sigil"
+    }
+  ]
+}

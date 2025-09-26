@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Limpieza",
+  "icon": "minecraft:golden_apple",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:rituals/rituals)Ritual$() de Limpieza invoca a la luz para limpiar a su objetivo de $(l:bewitchment:curses/conducting_curses)Maldiciones$(). El objetivo se especifica con un $(l:bewitchment:tools/taglock)Candado de Etiqueta$().$(br2)El $(l:bewitchment:rituals/rituals)Ritual$() también es aplicable a los Aldeanos Zombis. Al hacerlo, los convertirá en Aldeanos normales."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/cleansing",
+      "text": "Ten en cuenta que este $(l:bewitchment:rituals/rituals)Ritual$() no tiene garantizado el éxito. Algunas $(l:bewitchment:curses/conducting_curses)Maldiciones$() pueden ser más difíciles de eliminar, pero -al igual que con el lavado- frotar con la suficiente fuerza hará que cualquier cosa se quite."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Diluvio",
+  "icon": "minecraft:water_bucket",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Un $(l:bewitchment:rituals/rituals)Ritual$() menor que invoca a los espíritus del agua para hacer que llueva.$(br2)La lluvia en sí es sobrenatural, con una duración aproximada de hasta medio día, esto es asumiendo que el $(l:bewitchment:rituals/rituals)Ritual$() no esté de alguna manera $(l:bewitchment:creatures/cat)Reforzado$()."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/deluge"
+    }
+  ]
+}

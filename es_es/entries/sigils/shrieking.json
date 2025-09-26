@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Chillon",
+  "icon": "bewitchment:shrieking_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Activo$() Chillon emitirá un sonido horrible cuando se active."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:shrieking_sigil"
+    }
+  ]
+}

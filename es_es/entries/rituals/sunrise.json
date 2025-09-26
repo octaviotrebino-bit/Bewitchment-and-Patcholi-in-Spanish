@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Amanecer",
+  "icon": "minecraft:gold_ingot",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:rituals/rituals)Ritual$() del Amanecer, en pocas palabras, hace que sea de día."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/sunrise"
+    }
+  ]
+}

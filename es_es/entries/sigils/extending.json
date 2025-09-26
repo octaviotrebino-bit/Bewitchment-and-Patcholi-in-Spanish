@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello Extensor",
+  "icon": "bewitchment:extending_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() Extensor duplicará la duración de cualquier $(l:bewitchment:tools/brazier#incense)Incienso$() cercano a él."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:extending_sigil"
+    }
+  ]
+}

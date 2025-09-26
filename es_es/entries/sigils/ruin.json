@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:sigils",
+  "name": "Sello de Ruina",
+  "icon": "bewitchment:ruin_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:sigils/using_sigils)Sello Pasivo$() de Ruina evita que cualquier efecto de poción positivo se active a su alrededor."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:ruin_sigil"
+    }
+  ]
+}

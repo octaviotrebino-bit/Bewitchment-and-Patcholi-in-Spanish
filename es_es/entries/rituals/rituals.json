@@ -1,0 +1,53 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Rituales",
+  "icon": "bewitchment:golden_chalk",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Rituales son una poderosa práctica mágica utilizada para tener un efecto directo en el mundo. Se realizan dibujando círculos y arrojando los ingredientes adecuados."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los Rituales necesitan un $(l:bewitchment:introduction/altars)Altar$() que proporcione $(l:bewitchment:introduction/altars)ME$() cerca; la cantidad de $(l:bewitchment:introduction/altars)ME$() necesaria siempre se indica en la entrada del ritual.$(br2)Cada ritual tiene un círculo interior y un círculo exterior opcional dibujados con tiza diferente, dependiendo del ritual."
+    },
+    {
+      "type": "patchouli:multiblock",
+      "multiblock": {
+        "mapping": {
+          "g": "bewitchment:glyph",
+          "0": "bewitchment:golden_glyph"
+        },
+        "pattern": [
+          [
+            "___ggggg___",
+            "__g_____g__",
+            "_g__ggg__g_",
+            "g__g___g__g",
+            "g_g_____g_g",
+            "g_g__0__g_g",
+            "g_g_____g_g",
+            "g__g___g__g",
+            "_g__ggg__g_",
+            "__g_____g__",
+            "___ggggg___"
+          ]
+        ]
+      },
+      "text": "Un Glifo Dorado siempre forma el centro de un círculo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:chalk",
+      "recipe2": "bewitchment:golden_chalk",
+      "anchor": "chalk"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:fiery_chalk",
+      "recipe2": "bewitchment:eldritch_chalk"
+    }
+  ]
+}

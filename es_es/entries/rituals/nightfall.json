@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Anochecer",
+  "icon": "bewitchment:silver_ingot",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Al invocar a la luna, las brujas pueden intercambiar el día por la noche."
+    },
+    {
+      "type": "bewitchment:ritual",
+      "recipe": "bewitchment:rituals/nightfall"
+    }
+  ]
+}

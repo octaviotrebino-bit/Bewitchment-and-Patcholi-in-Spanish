@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Evaporar",
+  "icon": "minecraft:netherrack",
+  "advancement": "bewitchment:hidden_unlocks/chalk",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Este $(l:bewitchment:rituals/rituals)Ritual$() canaliza las energías del fuego, eliminando cualquier agua cercana."
+	},
+	{
+	  "type": "bewitchment:ritual",
+	  "recipe": "bewitchment:rituals/evaporate"
+	}
+  ]
+}
