@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Corrosión",
+  "icon": "minecraft:dragon_breath",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El contraparte de $(l:bewitchment:brewing/hardening)Endurecimiento$() reducirá la armadura en una cantidad fija."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Corrosión",
+      "item": "minecraft:dragon_breath",
+      "text": "La disminución de la armadura es proporcional a la fuerza de la poción."
+    }
+  ]
+}

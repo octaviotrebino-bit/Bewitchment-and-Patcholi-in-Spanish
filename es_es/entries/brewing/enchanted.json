@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Encantado",
+  "icon": "minecraft:lapis_block",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Convierte los ataques normales en magia, permitiendo que pasen a través de la armadura."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Encantado",
+      "item": "minecraft:lapis_block",
+      "text": "El daño resultante es drásticamente menor que el original, sin embargo, se añade un bono de daño fijo basado en la intensidad de la poción."
+    }
+  ]
+}

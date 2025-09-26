@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Espinas",
+  "icon": "minecraft:cactus",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto de Espinas hace lo que su nombre implica. Cualquier entidad que intente dañar al usuario recibirá algo de daño."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Espinas",
+      "item": "minecraft:cactus",
+      "text": "El daño recibido a través de Espinas es proporcional a la fuerza del efecto."
+    }
+  ]
+}

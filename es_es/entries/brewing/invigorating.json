@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Revitalizante",
+  "icon": "bewitchment:elder_bark",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esto llenará el $(l:bewitchment:introduction/altars#internalme)Buffer Interno de ME$() de quien lo consuma por una cantidad fija."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Revitalizante",
+      "item": "bewitchment:elder_bark",
+      "text": "La intensidad aumentará la cantidad de $(l:bewitchment:introduction/altars#internalme)ME$() ganada."
+    }
+  ]
+}

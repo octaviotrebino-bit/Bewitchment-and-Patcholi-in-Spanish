@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Inhibido",
+  "icon": "bewitchment:silver_ingot",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este efecto bloquea a quien lo beba de usar su $(l:bewitchment:introduction/altars#internalme)Búfer ME Interno$(). Esto significa que no pueden usar objetos que requieran $(l:bewitchment:introduction/altars)Energía Mágica$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Inhibido",
+      "item": "bewitchment:silver_ingot",
+      "text": "La intensidad no afecta este efecto."
+    }
+  ]
+}

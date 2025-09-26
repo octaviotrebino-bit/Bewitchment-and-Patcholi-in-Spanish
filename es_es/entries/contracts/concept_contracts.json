@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Concepto: Contratos",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los contratos son pactos de otro mundo adquiridos de $(l:bewitchment:creatures/demon)Demonios$() a costa de la salud.$(br2)Los contratos suelen durar siete días y no pueden romperse."
+    }
+  ]
+}

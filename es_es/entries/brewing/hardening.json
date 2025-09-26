@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Endurecimiento",
+  "icon": "minecraft:scute",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este efecto endurece la piel, otorgando un bono plano en la armadura."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Endurecimiento",
+      "item": "minecraft:scute",
+      "text": "El bono de armadura es proporcional a la fuerza del efecto."
+    }
+  ]
+}

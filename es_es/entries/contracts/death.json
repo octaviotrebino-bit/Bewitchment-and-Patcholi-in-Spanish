@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Muerte",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:contracts/concept_contracts)Contrato$() de Muerte te hace anhelar la muerte de otros seres vivos.$(br2)Cualquier cosa que mates con tu mano te curará."
+    }
+  ]
+}

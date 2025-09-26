@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Hambre",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Bajo el $(l:bewitchment:contracts/concept_contracts)Contrato$() de Hambre, el daño recibido se reduce cuanto más hambriento estés."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Hundimiento",
+  "icon": "minecraft:iron_ingot",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Hace que el objetivo se hunda más rápido, especialmente en agua o al volar."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Hundimiento",
+      "item": "minecraft:iron_ingot",
+      "text": "Una mayor intensidad hace que el objetivo se hunda más rápido."
+    }
+  ]
+}

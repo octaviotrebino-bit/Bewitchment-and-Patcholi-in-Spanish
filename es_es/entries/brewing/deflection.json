@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Desviación",
+  "icon": "minecraft:phantom_membrane",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Desvía las flechas del objetivo, haciéndolas regresar más rápido desde donde fueron disparadas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Desviación",
+      "item": "minecraft:phantom_membrane",
+      "text": "Las flechas se vuelven más rápidas cuanto más fuerte es el efecto de Desviación."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Disyunción",
+  "icon": "minecraft:ender_pearl",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Disyunta el objetivo, intentando teletransportarlo en un pequeño radio."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Disyunción",
+      "item": "minecraft:ender_pearl",
+      "text": "El radio de teletransportación se incrementa con una mayor intensidad."
+    }
+  ]
+}

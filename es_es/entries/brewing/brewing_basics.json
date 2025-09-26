@@ -1,0 +1,25 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Fundamentos de la Elaboración",
+  "icon": "bewitchment:witch_cauldron",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": "True",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El fino arte de la elaboración es una disciplina fundamental de la brujería. Como su nombre indica, se trata de elaborar pociones.$(br2)Para comenzar con la elaboración, necesitarás un $(l:bewitchment:tools/witch_cauldron)Caldero de Bruja$(), algo de $(l:bewitchment:introduction/altars)Poder del Altar$(), así como otros ingredientes diversos.$(br2)Para iniciar una elaboración, primero agrega una $(l:bewitchment:introduction/crops)Raíz de Mandrágora$() al $(l:bewitchment:tools/witch_cauldron)Caldero de Bruja$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Después de agregar la $(l:bewitchment:introduction/crops)Raíz de Mandrágora$(), puedes agregar otros ingredientes. Cada ingrediente aumentará el $(l:bewitchment:introduction/altars)Poder del Altar$() necesario para embotellar la elaboración en 150, y tener un $(l:bewitchment:introduction/altars)Poder del Altar$() insuficiente mientras elaboras causará que la elaboración falle inmediatamente, así que ten eso en cuenta.$(br2)Los ingredientes se pueden dividir en ingredientes de pociones y modificadores. No importa tu $(l:bewitchment:introduction/altars)Poder del Altar$(), solo puedes agregar hasta cuatro ingredientes."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los ingredientes de pociones añaden efectos a tu elaboración. Siempre querrás tener al menos uno de esos. Los efectos exactos proporcionados por ciertos ingredientes de pociones se describen en otras entradas. Se pueden agregar más ingredientes, aunque eso viene a expensas del espacio para modificadores.$(br2)Los modificadores mejorarán tu elaboración: el Polvo de Redstone aumenta la duración, mientras que el Polvo de Glowstone la hace más potente."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Puedes agregar solo un modificador que aumente la potencia; sin embargo, otros modificadores están técnicamente limitados solo por la cantidad de espacio restante y tu $(l:bewitchment:introduction/altars)Poder del Altar$().$(br2)Por último, puedes procesar tus pociones usando un Soporte de Elaboración regular. También ten en cuenta que cuando el agua es marrón, generalmente significa que fallaste en tu elaboración. $(br2)$(o)¿Quizás deberías experimentar tú mismo para descubrir qué funciona y qué no?$()"
+    }
+  ]
+}

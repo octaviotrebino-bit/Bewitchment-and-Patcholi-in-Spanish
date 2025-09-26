@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Sincronizado",
+  "icon": "minecraft:ghast_tear",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto Sincronizado aplicará cualquier efecto que tengas a entidades cercanas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Sincronizado",
+      "item": "minecraft:ghast_tear",
+      "text": "Los efectos sincronizados se reducen a la mitad.$(br2)Este efecto no es compatible con $(l:bewitchment:brewing/theft)Robo$().$(br2)Cuanto mayor sea la intensidad de este efecto, más lejos llegará."
+    }
+  ]
+}

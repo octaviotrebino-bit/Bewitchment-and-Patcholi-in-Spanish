@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Leeching",
+  "icon": "bewitchment:bottle_of_blood",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Cura al objetivo según el daño infligido."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Leeching",
+      "item": "bewitchment:bottle_of_blood",
+      "text": "Cuanto mayor sea la intensidad, más salud se cura.$(br2)Este efecto no funcionará si tienes $(l:bewitchment:brewing/mundane_brews#strength)Fuerza$(), $(l:bewitchment:brewing/mundane_brews#regeneration)Regeneración$(), o $(l:bewitchment:brewing/mundane_brews#resistance)Resistencia.$()"
+    }
+  ]
+}

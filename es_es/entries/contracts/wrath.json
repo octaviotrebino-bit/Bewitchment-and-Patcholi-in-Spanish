@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Ira",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A veces, ser herido te enoja, y con el $(l:bewitchment:contracts/concept_contracts)Contrato$() de Ira, ¡finalmente puedes manifestar esa ira de manera razonable!$(br2)Firmar este $(l:bewitchment:contracts/concept_contracts)Contrato$() aumentará tu daño con menor salud."
+    }
+  ]
+}

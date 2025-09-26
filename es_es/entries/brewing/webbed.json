@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Webbed",
+  "icon": "minecraft:cobweb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Coloca instantáneamente telarañas temporales alrededor del objetivo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Webbed",
+      "item": "minecraft:cobweb",
+      "text": "La intensidad aumenta el radio en el que se colocan las telarañas."
+    }
+  ]
+}

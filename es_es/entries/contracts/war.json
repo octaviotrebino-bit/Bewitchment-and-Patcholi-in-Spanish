@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Guerra",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los seres bajo el $(l:bewitchment:contracts/concept_contracts)Contrato$() de Guerra causan agresión entre las entidades cercanas, haciendo que se ataquen entre sí primero."
+    }
+  ]
+}

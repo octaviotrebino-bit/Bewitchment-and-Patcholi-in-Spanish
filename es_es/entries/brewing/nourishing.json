@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Nutritivo",
+  "icon": "minecraft:bamboo",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El efecto Nutritivo aumenta la efectividad de la comida, otorgando un aumento plano en la ganancia al consumir alimentos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Nutritivo",
+      "item": "minecraft:bamboo",
+      "text": "El aumento de ganancia se escala con la intensidad."
+    }
+  ]
+}

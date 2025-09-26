@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Sordo",
+  "icon": "minecraft:honeycomb",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Reduce todo sonido para quien tenga este efecto."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Sordo",
+      "item": "minecraft:honeycomb",
+      "text": "Cuanto mayor es la intensidad de la poción, más se reduce el sonido."
+    }
+  ]
+}

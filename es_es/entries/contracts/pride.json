@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Orgullo",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El $(l:bewitchment:contracts/concept_contracts)Contrato$() de Orgullo duplicará la cantidad de experiencia que ganes."
+    }
+  ]
+}

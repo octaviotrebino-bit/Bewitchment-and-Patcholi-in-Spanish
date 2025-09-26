@@ -1,0 +1,43 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Aceites Elementales",
+  "icon": "bewitchment:cleansing_balm",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "priority": "True",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Aceites Elementales son componentes esenciales de elaboración en la brujería. Se hacen de un tipo de $(l:bewitchment:introduction/bark)Corteza$() y otros componentes.$(br2)Para elaborar unas botellas de aceite, primero lanza un trozo de $(l:bewitchment:introduction/bark)Corteza$() en un $(l:bewitchment:tools/witch_cauldron)Caldero de Bruja$() hirviendo, luego añade los otros ingredientes. Una vez que alcance un color agradable y coincidente, puedes embotellarlo."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/cleansing_balm",
+      "text": "El Bálsamo Limpiador está asociado con la luz y es igual de brillante."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/grim_elixir",
+      "text": "Asociado con el principio de la oscuridad, el Elixir Grim es oscuro, como la sangre."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/aqua_cerate",
+      "text": "Aqua Cerato es azul, como el agua.$(br2)Cualquier tipo de pez puede ser utilizado para esto."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/fiery_serum",
+      "text": "El Suero Ardiente es de un naranja brillante. Incorpora el principio de la llama."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/earth_ichor",
+      "text": "Este aceite verde hierba incorpora tierra."
+    },
+    {
+      "type": "bewitchment:oil",
+      "recipe": "bewitchment:oil_crafting/heaven_extract",
+      "text": "El Extracto del Cielo es completamente blanco y representa el aire.$(br2)Ten cuidado de no lanzar primero la $(l:bewitchment:introduction/crops)Raíz de Mandrágora$(), o podrías crear accidentalmente una $(l:bewitchment:brewing/brewing_basics)Infusión$()."
+    }
+  ]
+}

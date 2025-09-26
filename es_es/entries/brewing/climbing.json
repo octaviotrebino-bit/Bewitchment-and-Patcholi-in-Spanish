@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Escalada",
+  "icon": "minecraft:spider_eye",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Permite a quien esté afectado escalar paredes como lo harían las arañas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Escalada",
+      "item": "minecraft:spider_eye",
+      "text": "Este efecto no se ve afectado por la intensidad."
+    }
+  ]
+}

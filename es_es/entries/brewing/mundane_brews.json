@@ -1,0 +1,160 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Mundane Brews",
+  "icon": "bewitchment:witch_cauldron",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "priority": "True",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mientras que un $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() puede ser utilizado para hacer $(l:bewitchment:brewing/brewing_basics)Brews$() mucho más increíbles, algunas brujas pueden en ocasiones preferir usar $(l:bewitchment:brewing/brewing_basics)Brews$() más sutiles.$(br)Todos los $(l:bewitchment:brewing/brewing_basics)Brews$() en esta entrada pueden ser obtenidos por otros medios, aunque el $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() puede permitirte hacerlos más fuertes.$(br)Los $(l:bewitchment:brewing/brewing_basics)Brews$() mundanos fabricados en el $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() utilizan ingredientes ligeramente diferentes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Absorción",
+      "item": "minecraft:honey_bottle",
+      "text": "Aplica salud extra temporal."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Ceguera",
+      "item": "minecraft:ink_sac",
+      "text": "Reduce drásticamente el campo de visión del objetivo, oscureciendo todo a su alrededor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Resistencia al Fuego",
+      "item": "minecraft:nether_wart",
+      "text": "Otorga inmunidad al fuego."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Brillo",
+      "item": "minecraft:glistering_melon_slice",
+      "text": "Hace que el objetivo brille de manera molesta."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Prisa",
+      "item": "minecraft:dandelion",
+      "text": "Aumenta la velocidad de minería y la velocidad de ataque."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Hambre",
+      "item": "minecraft:rotten_flesh",
+      "text": "Aplica un efecto de hambre."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Salud Instantánea",
+      "item": "bewitchment:garlic",
+      "text": "Cura instantáneamente una cantidad fija de salud, utilizando las propiedades curativas del $(l:bewitchment:introducton/crops)Ajo$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Daño Instantáneo",
+      "item": "bewitchment:cypress_bark",
+      "text": "Causa daño instantáneo a una cantidad fija de salud, aprovechando las energías mortales de $(l:bewitchment:introduction/cypress_trees)Cipres$()."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Invisibilidad",
+      "item": "minecraft:vine",
+      "text": "Hace que el objetivo sea invisible."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Impulso de Salto",
+      "item": "minecraft:rabbit_foot",
+      "text": "El impulso de salto es autoexplicativo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Levitación",
+      "item": "minecraft:chorus_fruit",
+      "text": "Eleva lentamente al objetivo hacia el cielo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Fatiga de Minería",
+      "item": "minecraft:poppy",
+      "text": "La Fatiga de Minería hace que el objetivo golpee mucho más lento."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Náuseas",
+      "item": "bewitchment:aconite",
+      "text": "Induce enfermedad desorientando al objetivo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Visión Nocturna",
+      "item": "minecraft:carrot",
+      "text": "Las zanahorias son buenas para tus ojos."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Veneno",
+      "item": "bewitchment:belladonna",
+      "text": "Llena la sangre del objetivo con toxinas mortales."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Regeneración",
+      "item": "bewitchment:juniper_bark",
+      "text": "Al utilizar las energías vitales de $(l:bewitchment:introduction/juniper_trees)Enebro$(), la Regeneración acelera el proceso de curación cuando se aplica.",
+      "anchor": "regeneración"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Resistencia",
+      "item": "bewitchment:spruce_bark",
+      "text": "Reduce el daño recibido.",
+      "anchor": "resistance"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Caída Lenta",
+      "item": "minecraft:feather",
+      "text": "Hace que el objetivo caiga suavemente, como una pluma."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Lentitud",
+      "item": "minecraft:slime_ball",
+      "text": "Reduce la velocidad de movimiento del objetivo."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Velocidad",
+      "item": "minecraft:sugar_cane",
+      "text": "Aumenta la velocidad de movimiento, utilizando las cualidades energizantes de la Caña de Azúcar."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Fuerza",
+      "item": "bewitchment:oak_bark",
+      "text": "Usando los poderes del Roble, esto aumenta la producción de daño.",
+      "anchor": "strength"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Respiración Subacuática",
+      "item": "minecraft:kelp",
+      "text": "Permite respirar en el agua."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Debilidad",
+      "item": "minecraft:red_mushroom",
+      "text": "Reduce el daño de ataque del objetivo.$(br2)También puedes usar un Hongo Marrón para esto."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Marchitamiento",
+      "item": "minecraft:wither_rose",
+      "text": "Reduce gradualmente la salud del objetivo."
+    }
+  ]
+}

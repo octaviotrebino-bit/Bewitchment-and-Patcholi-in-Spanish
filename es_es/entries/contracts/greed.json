@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Avaricia",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Bajo el $(l:bewitchment:contracts/concept_contracts)Contrato$() de Avaricia, los minerales se fundirán automáticamente y soltarán el doble de la cantidad que normalmente soltarían."
+    }
+  ]
+}

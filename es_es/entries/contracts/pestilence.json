@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Pestilencia",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Aquellos marcados por la Pestilencia son capaces de infligir eficazmente graves enfermedades a sus enemigos."
+    }
+  ]
+}

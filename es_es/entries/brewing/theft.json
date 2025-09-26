@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Robo",
+  "icon": "minecraft:diamond",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este efecto robará los efectos positivos de cualquier entidad cercana y los aplicará a ti en su lugar. Los efectos ambientales son una excepción a esto."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Robo",
+      "item": "minecraft:diamond",
+      "text": "Robar un efecto reducirá su duración a la mitad.$(br2)Este efecto no es compatible con $(l:bewitchment:brewing/synchronized)Sincronizado$().$(br2)Cuanto mayor sea la intensidad de este efecto, más lejos llegará."
+    }
+  ]
+}

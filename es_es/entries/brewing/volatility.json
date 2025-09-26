@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Volatilidad",
+  "icon": "minecraft:fire_charge",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Hace que el objetivo sea extremadamente volátil. Cuando es golpeado, causará una explosión dañina, eliminando instantáneamente el efecto y dañando a todas las entidades alrededor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Volatilidad",
+      "item": "minecraft:fire_charge",
+      "text": "El daño de la explosión escala con la intensidad del efecto."
+    }
+  ]
+}

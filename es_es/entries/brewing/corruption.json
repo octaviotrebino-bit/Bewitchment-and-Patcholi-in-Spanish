@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Corrupción",
+  "icon": "bewitchment:demon_horn",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Al hacer una $(l:bewitchment:brewing/brewing_basics)Brew$() con un Cuerno de Demonio, puedes revertir los efectos positivos de las pociones en su contraparte negativa.$(br2)Cuando se agrega como ingrediente de poción, la Corrupción siempre prevalecerá, lo que significa que invertirá todos los efectos anteriores al ser bebida, pero no los de la poción."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Corrupción",
+      "item": "bewitchment:demon_horn"
+    }
+  ]
+}

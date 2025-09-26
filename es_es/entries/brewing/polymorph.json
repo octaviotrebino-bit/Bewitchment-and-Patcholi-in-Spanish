@@ -1,0 +1,18 @@
+{
+  "category": "bewitchment:brewing",
+  "name": "Polimorfo",
+  "icon": "bewitchment:taglock{OwnerName:Aelpecyem}",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Polimorfo debe ser uno de los efectos más versátiles. Los jugadores bajo el efecto de Polimorfo cambian su forma a la del objetivo del $(l:bewitchment:tools/taglock)Taglock$() utilizado.$(br2)La Poción puede hacerse en una Poción de Salpicadura o variantes similares, al igual que otras pociones."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Polimorfo",
+      "item": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName:\"Aelpecyem\"}",
+      "text": "La intensidad no tiene efecto en esta poción.$(br2)Esta poción solo funciona si se crea a partir de un $(l:bewitchment:tools/taglock)Taglock$() de otro jugador."
+    }
+  ]
+}

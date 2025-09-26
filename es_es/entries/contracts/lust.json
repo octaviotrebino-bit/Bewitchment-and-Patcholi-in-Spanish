@@ -1,0 +1,13 @@
+{
+  "category": "bewitchment:contracts",
+  "name": "Lujuria",
+  "icon": "bewitchment:demonic_contract",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La lujuria trae amor en el aire~$(br2)Esto hace que los animales criados por quien tenga este $(l:bewitchment:contracts/concept_contracts)Contrato$() se reproduzcan el triple de lo normal."
+    }
+  ]
+}
