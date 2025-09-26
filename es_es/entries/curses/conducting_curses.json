@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Realización de Maldiciones",
+  "priority": "True",
+  "icon": "bewitchment:brazier",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las maldiciones son magia maliciosa lanzada con un $(l:bewitchment:tools/brazier)Brazier$().$(br2)Para lanzar una maldición efectiva, necesitarás el $(l:bewitchment:tools/taglock)Taglock$() de tu objetivo y ponerlo en el $(l:bewitchment:tools/brazier)Brazier$(), además de los otros ingredientes.$(br2)Después de poner todos los ingredientes, enciende el $(l:bewitchment:tools/brazier)Brazier$() con un pedernal y acero para lanzar la maldición."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Las maldiciones se desvanecerán después de siete días, pero también pueden ser $(l:bewitchment:rituals/cleansing)Cleansed$() utilizando el ritual respectivo.$(br2)Ten en cuenta que todas las maldiciones necesitan al menos 400 $(l:bewitchment:introduction/altars)ME$() disponibles; las maldiciones mayores requieren 800 $(l:bewitchment:introduction/altars)ME$()."
+    }
+  ]
+}

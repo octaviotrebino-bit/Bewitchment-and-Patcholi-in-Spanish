@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Protección Vudú",
+  "icon": "bewitchment:voodoo_protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Muñeca de Protección Vudú es la contraparte de respuesta a la $(l:bewitchment:poppets/voodoo)Muñeca de Vudú$().$(br2)Al redirigir la energía maliciosa, cualquiera que esté vinculado a ella es completamente inmune a los efectos de una $(l:bewitchment:poppets/voodoo)Muñeca de Vudú$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:voodoo_protection_poppet"
+    }
+  ]
+}

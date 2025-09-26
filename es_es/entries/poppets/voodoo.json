@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Vudú",
+  "icon": "bewitchment:voodoo_poppet",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Muñeca de Vudú es un clásico.$(br2)Puede ser usada para mover entidades, ahogarlas, prenderles fuego, ¡e incluso aplicarles efectos de poción desde cualquier lugar!$(br2)Las Muñecas de Vudú no funcionan en los $(l:bewitchment:tools/poppet_shelves)Estantes de Muñecas$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:voodoo_poppet"
+    }
+  ]
+}

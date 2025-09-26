@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Fatiga",
+  "icon": "bewitchment:fatigue_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Cuando estás vinculado a la Muñeca de Fatiga, los enemigos que te ataquen se debilitarán gravemente por unos segundos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:fatigue_poppet"
+    }
+  ]
+}

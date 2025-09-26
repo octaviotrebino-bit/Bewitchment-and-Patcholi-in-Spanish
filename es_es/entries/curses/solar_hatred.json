@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Solar Hatred",
+  "icon": "minecraft:sunflower",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Al debilitar la piel del objetivo, esta $(l:bewitchment:curses/conducting_curses)Maldición$() los hace extremadamente susceptibles a la luz solar. $(br2)Esto de hecho se extiende a literalmente prenderles fuego."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/solar_hatred"
+    }
+  ]
+}

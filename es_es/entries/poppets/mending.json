@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Remiendo",
+  "icon": "bewitchment:mending_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Al igual que el raro y codiciado encantamiento, la Muñeca de Remiendo reparará la armadura y los objetos sostenidos de quien esté vinculado a ella.$(br2)Este efecto no se aplica pasivamente; en su lugar, se aplica cada vez que un objeto normalmente se rompería, restaurando su durabilidad y destruyendo la $(l:bewitchment:poppets/poppet_practice)Muñeca$() en su lugar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:mending_poppet"
+    }
+  ]
+}

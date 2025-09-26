@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Comprometido",
+  "icon": "minecraft:textures/mob_effect/weakness.png",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta $(l:bewitchment:curses/conducting_curses)Maldición$() compromete la sangre del objetivo. Esto hará que los efectos negativos sean más fuertes."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/compromised"
+    }
+  ]
+}

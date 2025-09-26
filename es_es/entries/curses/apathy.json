@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Apatía",
+  "icon": "minecraft:soul_lantern",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La apatía marchita el alma, haciéndola incapaz de alcanzar $(l:bewitchment:introduction/altars)Energía Mágica$(). Los aldeanos y $(l:bewitchment:creatures/demon)Demonios$() rechazarán comerciar, y los animales huirán del víctima de esta poderosa $(l:bewitchment:curses/conducting_curses)Maldición$()."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/apathy",
+      "text": "Esta es una $(l:bewitchment:curses/conducting_curses)Maldición Mayor$(); es un poco más difícil de deshacerse."
+    }
+  ]
+}

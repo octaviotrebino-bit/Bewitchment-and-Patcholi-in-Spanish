@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Pulmones Débiles",
+  "icon": "minecraft:gunpowder",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las víctimas de esta $(l:bewitchment:curses/conducting_curses)Maldición$() tienen dificultad para respirar.$(br)Cuando están bajo el agua, comenzarán a ahogarse inmediatamente."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/weak_lungs"
+    }
+  ]
+}

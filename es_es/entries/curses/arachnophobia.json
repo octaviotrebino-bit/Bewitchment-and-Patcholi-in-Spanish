@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Arachnophobia",
+  "icon": "minecraft:spider_eye",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A través del poder de la magia y la reproducción asexual aleatoria, esta $(l:bewitchment:curses/conducting_curses)Curse$() causará un miedo masivo a las arañas que puede incluso extenderse durante la duración de la $(l:bewitchment:curses/conducting_curses)Curse$() real."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/arachnophobia"
+    }
+  ]
+}

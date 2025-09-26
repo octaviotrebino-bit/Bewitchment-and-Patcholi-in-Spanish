@@ -1,0 +1,54 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Árboles de Sangre de Dragón",
+  "icon": "bewitchment:dragons_blood_sapling",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Brotes de Sangre de Dragón se encuentran en las Fortalezas del Nether.$(br2)Cortar a través de la corteza con un $(l:bewitchment:tools/athame)Athame$() hará que sangre, produciendo Resina de Sangre de Dragón.$(br2)Los bloques hechos con esta madera emiten un aura de poder, y se pueden dar $(l:bewitchment:sigils/using_sigils)Sigilos Activos$()."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/dragons_blood_tree.png"
+      ],
+      "border": "True"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_wood",
+      "recipe2": "bewitchment:dragons_blood_planks"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_stairs",
+      "recipe2": "bewitchment:dragons_blood_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_fence",
+      "recipe2": "bewitchment:dragons_blood_fence_gate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_pressure_plate",
+      "recipe2": "bewitchment:dragons_blood_button"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_trapdoor",
+      "recipe2": "bewitchment:dragons_blood_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_chest",
+      "recipe2": "bewitchment:trapped_dragons_blood_chest"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:dragons_blood_sign",
+      "recipe2": "bewitchment:dragons_blood_boat"
+    }
+  ]
+}

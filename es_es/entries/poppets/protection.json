@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Protección",
+  "icon": "bewitchment:protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Muñeca de Protección no te protegerá de zombis o esqueletos; sin embargo, sí te protegerá de fuentes de daño ambiental como el fuego, ahogamiento y la velocidad a cualquiera que esté vinculado a ella."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:protection_poppet"
+    }
+  ]
+}

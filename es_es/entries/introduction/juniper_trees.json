@@ -1,0 +1,53 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Árboles de Junípero",
+  "icon": "bewitchment:juniper_sapling",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El árbol de Junípero representa la vida. Puedes insertar hasta tres $(l:bewitchment:tools/taglock)Taglocks$() en bloques hechos con esta madera. Al usarlos, estos bloques recogerán $(l:bewitchment:tools/taglock)Taglocks$() de cualquiera menos de su propietario.$(br2)$(l:bewitchment:tools/taglock)Taglocks$() se insertan agachándote mientras los usas en el bloque; puedes recogerlos usando un $(l:bewitchment:tools/athame)Athame$() mientras te agachas."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/juniper_tree.png"
+      ],
+      "border": "True"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_wood",
+      "recipe2": "bewitchment:juniper_planks"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_stairs",
+      "recipe2": "bewitchment:juniper_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_fence",
+      "recipe2": "bewitchment:juniper_fence_gate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_pressure_plate",
+      "recipe2": "bewitchment:juniper_button"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_trapdoor",
+      "recipe2": "bewitchment:juniper_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_chest",
+      "recipe2": "bewitchment:trapped_juniper_chest"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_sign",
+      "recipe2": "bewitchment:juniper_boat"
+    }
+  ]
+}

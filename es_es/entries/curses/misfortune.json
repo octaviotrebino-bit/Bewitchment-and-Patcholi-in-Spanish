@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Misfortune",
+  "icon": "minecraft:clay_ball",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta clásica $(l:bewitchment:curses/conducting_curses)Maleficio$() aplicará ocasionalmente efectos desagradables. Estos incluyen, pero no se limitan a, Veneno, Debilidad, Ceguera y Náuseas."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/misfortune"
+    }
+  ]
+}

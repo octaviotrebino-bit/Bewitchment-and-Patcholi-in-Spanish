@@ -1,0 +1,37 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Plata",
+  "icon": "bewitchment:silver_ingot",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Generando cerca de Oro, la Plata es un símbolo de pureza.$(br2)Los bloques de Plata dañarán a las entidades no santas que se encuentren sobre ellos.$(br2)Cada vez que se use el término entidad no santa en este libro, es equivalente a si la entidad dada tiene una debilidad al encantamiento de Smite."
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/silver_ore.png"
+      ],
+      "border": "True"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "bewitchment:silver_ingot_from_smelting_raw_silver",
+      "text": "La Plata cruda puede ser procesada en Hornos y Hornos de explosión."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:raw_silver_block",
+      "recipe2": "bewitchment:silver_block"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:silver_nugget"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:silver_arrow",
+      "text": "Las flechas de Plata pueden ser disparadas como flechas normales, pero tienen un efecto de Smite incorporado."
+    }
+  ]
+}

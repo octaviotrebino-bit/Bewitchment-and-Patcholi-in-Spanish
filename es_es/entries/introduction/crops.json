@@ -1,0 +1,30 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Cultivos",
+  "icon": "bewitchment:mandrake_root",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La brujería utiliza varios cultivos naturales para el arte. Estos cultivos se utilizan para $(l:bewitchment:rituals/rituals)Rituales$(), $(l:bewitchment:brewing/brewing_basics)Elaboración$(), y muchas otras cosas.$(br2)Las semillas de estos cultivos se pueden encontrar en la hierba silvestre, al igual que otras semillas."
+    },
+    {
+      "type": "bewitchment:multi_showcase",
+      "item1": "bewitchment:aconite",
+      "item2": "bewitchment:belladonna",
+      "item3": "bewitchment:garlic",
+      "item4": "bewitchment:mandrake_root",
+      "header": "Cultivos Regulares",
+      "text": "Los cuatro cultivos regulares son Aconito, Belladona, Ajo y Mandrágora.$(br2)El Aconito se utiliza principalmente como neurotóxico, mientras que la Belladona es conocida por causar daño físico. El Ajo encarna la curación, y la Mandrágora potencia la magia."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "bewitchment:grilled_garlic",
+      "text": "El Ajo también se puede asar en delicioso Ajo Asado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:garlic_bread",
+      "text": "El Ajo Asado puede, a su vez, ser transformado en aún más delicioso Pan de Ajo."
+    }
+  ]
+}

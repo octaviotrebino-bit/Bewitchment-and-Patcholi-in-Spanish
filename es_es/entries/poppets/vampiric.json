@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Muñeca Vampírica",
+  "icon": "bewitchment:vampiric_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Muñeca Vampírica transfiere el daño recibido por el usuario a la entidad vinculada a costa de durabilidad.$(br2)Irónicamente, esto no parece funcionar para los $(l:bewitchment:creatures/vampire)Vampiros$().$(br2)Las Muñecas Vampíricas no funcionan en los $(l:bewitchment:tools/poppet_shelves)Estantes de Muñecas$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:vampiric_poppet"
+    }
+  ]
+}

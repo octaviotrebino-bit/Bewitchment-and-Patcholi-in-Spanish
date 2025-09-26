@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Licantropía",
+  "icon": "bewitchment:aconite",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La licantropía es una enfermedad feroz que marca la mente, el cuerpo y el alma. Bajo una luna llena, sus víctimas se transforman en un $(l:bewitchment:creatures/werewolf)Hombre Lobo$() que anhela carne fresca.$(br2)Mientras son físicamente fuertes en forma de bestia, $(l:bewitchment:introduction/silver)La Plata$() les hará daño, al igual que $(l:bewitchment:introduction/crops)El Aconito$(). $(l:bewitchment:creatures/werewolf)Los Hombres Lobos$() también se alimentan exclusivamente de carne, sin importar su forma."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Su debilidad a $(l:bewitchment:introduction/silver)La Plata$() también implica una incapacidad para sostener herramientas como un $(l:bewitchment:tools/athame)Athame$() durante mucho tiempo.$(br2)La licantropía se contrae de otro $(l:bewitchment:creatures/werewolf)Hombre Lobo$() - siempre que no sea un licántropo recién infectado - mientras esté bajo la $(l:bewitchment:curses/conducting_curses)Maldición$() de $(l:bewitchment:curses/susceptibility)Susceptibilidad$(); aún debes $(l:bewitchment:poppets/death_protection)Sobrevivir de Alguna Manera$() sin embargo.$(br2)$(o)¡Eso suena como una idea maravillosa!$()"
+    }
+  ]
+}

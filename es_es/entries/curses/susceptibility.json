@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Susceptibilidad",
+  "icon": "minecraft:rotten_flesh",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta $(l:bewitchment:curses/conducting_curses)Maldición$() debilita el cuerpo, haciendo que el objetivo reciba el doble de daño mágico y dificultando su movimiento.$(br2)Se rumorea que esta $(l:bewitchment:curses/conducting_curses)Maldición$() está incluso relacionada con destinos mucho peores como $(l:bewitchment:curses/vampirism)Vampirismo$() y $(l:bewitchment:curses/lycanthropy)Licantrópia$()."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/susceptibility",
+      "text": "Esta es una $(l:bewitchment:curses/conducting_curses)Maldición Mayor$(); es un poco más difícil de deshacerse."
+    }
+  ]
+}

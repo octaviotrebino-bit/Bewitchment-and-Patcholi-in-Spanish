@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Juicio",
+  "icon": "bewitchment:judgment_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Cuando estás vinculado a una Muñeca de Juicio, cualquier ser impío que te ataque verá su daño de ataque reducido a la cuarta parte."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:judgment_poppet"
+    }
+  ]
+}

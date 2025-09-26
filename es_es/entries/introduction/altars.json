@@ -1,0 +1,62 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Altares",
+  "icon": "bewitchment:stone_witch_altar",
+  "advancement": "bewitchment:hidden_unlocks/barks",
+  "priority": "True",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los altares son la piedra angular de cualquier guarida de bruja. Pueden ser utilizados para recolectar energía - de aquí en adelante referida como ME (energía mágica). Esta energía es esencial para la mayoría de la brujería y se recolecta de las plantas cercanas. Querrás muchas plantas diferentes para recolectar el máximo poder."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "También puedes colocar espadas, pentáculos y varitas sobre el altar para modificarlo.$(br2)Las espadas aumentarán el multiplicador de almacenamiento. Pentáculos como Calaveras y Joyas aumentarán la ganancia. Varitas como $(l:bewitchment:tools/candelabras)Candelabros$(), Linternas y Antorchas otorgarán un bono fijo en la capacidad."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Los altares se crean colocando una alfombra sobre su bloque base. La elección del bloque base y la alfombra es de naturaleza cosmética únicamente y está ligada a uno de los tres reinos.$(br2)Los altares cercanos llenarán el Buffer Interno de ME de un jugador, que se utiliza para magia como amuletos o $(l:bewitchment:tools/brooms)Escobas$().",
+      "anchor": "internalme"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "bewitchment:textures/gui/patchouli/altar.png"
+      ],
+      "border": "True"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Mundo Superior",
+      "recipe": "bewitchment:stone_witch_altar",
+      "recipe2": "bewitchment:mossy_cobblestone_witch_altar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": " ",
+      "recipe": "bewitchment:prismarine_witch_altar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "El Inframundo",
+      "recipe": "bewitchment:nether_brick_witch_altar",
+      "recipe2": "bewitchment:blackstone_witch_altar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": " ",
+      "recipe": "bewitchment:golden_witch_altar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "El Fin",
+      "recipe": "bewitchment:end_stone_witch_altar",
+      "recipe2": "bewitchment:obsidian_witch_altar"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": " ",
+      "recipe": "bewitchment:purpur_witch_altar"
+    }
+  ]
+}

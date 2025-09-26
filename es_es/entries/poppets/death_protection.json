@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Muñeca de Protección contra la Muerte",
+  "icon": "bewitchment:death_protection_poppet",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La parca no tiene nada que hacer contigo cuando usas la Muñeca de Protección contra la Muerte.$(br2)Al igual que un Tótem de la Inmortalidad, esta $(l:bewitchment:poppets/poppet_practice)Muñeca$() te salvará del borde de la muerte una vez.$(br2)Las Muñecas de Protección contra la Muerte no funcionan en los $(l:bewitchment:tools/poppet_shelves)Estantes de Muñecas$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:death_protection_poppet"
+    }
+  ]
+}

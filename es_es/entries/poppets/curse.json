@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Maldición",
+  "icon": "bewitchment:curse_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La ridícula Muñeca de Maldición protegerá a su dueño de las $(l:bewitchment:curses/conducting_curses)Maldiciones$(). La $(l:bewitchment:poppets/poppet_practice)Muñeca$() lo hace absorbiendo la $(l:bewitchment:curses/conducting_curses)Maldición$() como una esponja. $(br2)Una vez que la $(l:bewitchment:poppets/poppet_practice)Muñeca$() ha absorbido con éxito una $(l:bewitchment:curses/conducting_curses)Maldición$(), puede ser reenlazada y utilizada para aplicar la $(l:bewitchment:curses/conducting_curses)Maldición$() absorbida al objetivo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:curse_poppet"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:poppets",
+  "name": "Práctica con Muñecas",
+  "icon": "bewitchment:voodoo_poppet",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las muñecas son efigies útiles que pueden ser usadas tanto con fines maliciosos como protectores.$(br2)Las muñecas siempre están vinculadas a una entidad.$(br2)Para estar activas, deben estar en tu inventario, a menos que tengas un $(l:bewitchment:tools/poppet_shelves)Estante de Muñecas$()."
+    },
+    {
+      "type": "bewitchment:multi_showcase",
+      "header": "Vincular Muñecas",
+      "item2": "bewitchment:voodoo_poppet",
+      "item3": "bewitchment:taglock{FromPlayer: 1b, OwnerUUID: [I; 1672005179, -1854323673, -2070260447, 778045631], OwnerName: \"MoriyaShiine\"}",
+      "text": "Para vincular una muñeca, simplemente combínala con un $(l:bewitchment:tools/taglock)Candado de Etiqueta$() en una cuadrícula de crafteo.$(br2)La forma en que una muñeca vinculada afecta a la entidad depende en gran medida de la muñeca en sí, así que asegúrate de revisar las entradas correspondientes."
+    }
+  ]
+}

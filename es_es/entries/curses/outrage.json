@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Outrage",
+  "icon": "minecraft:sweet_berries",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta $(l:bewitchment:curses/conducting_curses)Maldición$() hará que los mobs normalmente neutrales como los Enderman o los Piglins Zombificados se vuelvan agresivos hacia el objetivo."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/outrage"
+    }
+  ]
+}

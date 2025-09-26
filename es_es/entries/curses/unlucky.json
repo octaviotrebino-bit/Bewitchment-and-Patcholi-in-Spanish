@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Desafortunado",
+  "icon": "minecraft:textures/mob_effect/unluck.png",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l:bewitchment:tools/crystal_ball)La Fortuna$() no muestra favor a las víctimas de esta $(l:bewitchment:curses/conducting_curses)Maldición$(); esto también significa que los efectos de estado beneficiosos pueden no funcionar."
+    },
+    {
+      "type": "bewitchment:curse",
+      "recipe": "bewitchment:curses/unlucky"
+    }
+  ]
+}

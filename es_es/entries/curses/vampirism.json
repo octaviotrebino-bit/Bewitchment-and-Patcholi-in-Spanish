@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:curses",
+  "name": "Vampirismo",
+  "icon": "bewitchment:bottle_of_blood",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Vampirismo es una terrible $(l:bewitchment:curses/conducting_curses)Maldición$() que la mayoría considera terminal. $(br2)$(l:bewitchment:creatures/vampire)Vampiros$() son técnicamente inmortales, aunque su inmortalidad se alimenta de la sangre de humanos; sin ella, mueren.$(br2)Los vampiros tienen un pequeño bono a la velocidad de movimiento y al daño de ataque. Además, son débiles a $(l:bewitchment:introduction/silver)Plata$() y $(l:bewitchment:introduction/crops)Ajo$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "El vampirismo no se puede lanzar con un $(l:bewitchment:tools/brazier)Hoguera$(); en su lugar, debe ser contraído de otro $(l:bewitchment:creatures/vampire)Vampiro$().$(br2)Para contraer la $(l:bewitchment:curses/conducting_curses)Maldición$(), uno debe estar bajo la $(l:bewitchment:curses/conducting_curses)Maldición$() de $(l:bewitchment:curses/susceptibility)Susceptibilidad$() y ser asesinado por un $(l:bewitchment:creatures/vampire)Vampiro$()... pero $(l:bewitchment:poppets/death_protection)Sobrevive$().$(br2)$(o)¿Pero por qué querrías esto?$()"
+    }
+  ]
+}

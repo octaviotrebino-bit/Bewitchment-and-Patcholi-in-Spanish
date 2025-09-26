@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:introduction",
+  "name": "Corteza",
+  "icon": "bewitchment:oak_bark",
+  "advancement": "bewitchment:hidden_unlocks/athame",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Algunos dicen que la Corteza es la parte del árbol más mágicamente potente, así que las primeras brujas aprendieron a quitar la corteza de la madera usando un $(l:bewitchment:tools/athame)Athame$().$(br2)$(o)Ten en cuenta que algunas maderas son simplemente demasiado duras para quitar la Corteza.$()"
+    },
+    {
+      "type": "patchouli:campfire",
+      "recipe": "bewitchment:wood_ash_from_campfire_cooking",
+      "text": "La Corteza se puede usar para muchas cosas, una de ellas es la Ceniza de Madera.$(br2)La Ceniza de Madera se crea al poner Corteza en una Fogata. Cuando se lanza en un $(l:bewitchment:tools/witch_cauldron)Witch Cauldron$() lleno, lo vaciará inmediatamente."
+    }
+  ]
+}
