@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Armadura de Bruja de seto",
+  "icon": "bewitchment:hedgewitch_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Este viejo clásico ha demostrado su valía a lo largo de siglos de brujería. cuando se usa, aumenta el rendimiento de los cultivos.$(br2)Las alfombras del mismo tejido también se pueden colocar en los $(l:bewitchment:introduction/altars)Altares$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:hedgewitch_hat",
+      "recipe2": "bewitchment:hedgewitch_hood"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:hedgewitch_robes",
+      "recipe2": "bewitchment:hedgewitch_pants"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:hedgewitch_wool",
+      "recipe2": "bewitchment:hedgewitch_carpet"
+    }
+  ]
+}

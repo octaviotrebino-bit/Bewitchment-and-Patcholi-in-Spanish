@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Vampiro",
+  "icon": "bewitchment:vampire_spawn_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los vampiros son maestros de la noche, con pocas debilidades. Aparecen en biomas de llanuras y taiga, en lunas nuevas donde hay menos luz.$(br2)Se sabe que atacan a los humanos, así que deberías equiparte contra ellos con fuego o Smite."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:vampire",
+      "offset": "0.1"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Armadura Mancillada",
+  "icon": "bewitchment:besmirched_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta vestimenta profana encaja perfectamente en la colección gótica. Los $(l:bewitchment:creatures/demon)Demonios$() de cualquier tipo son incapaces de distinguir al portador de su propia especie, lo que les permite comerciar.$(br2)Las alfombras de esta tela son perfectas para los $(l:bewitchment:introduction/altars)Altares$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:besmirched_hat",
+      "recipe2": "bewitchment:besmirched_hood"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:besmirched_robes",
+      "recipe2": "bewitchment:besmirched_pants"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:besmirched_wool",
+      "recipe2": "bewitchment:besmirched_carpet"
+    }
+  ]
+}

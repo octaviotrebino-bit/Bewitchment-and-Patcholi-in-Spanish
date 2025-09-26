@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Cetro",
+  "icon": "bewitchment:scepter",
+  "advancement": "bewitchment:hidden_unlocks/scepter",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta poderosa reliquia se obtiene al derrotar a $(l:bewitchment:creatures/leonard)Leonard$().$(br2)Se puede combinar con una Poción Arrojadiza, que luego se puede lanzar cuatro veces usando el Cetro a costa de $(l:bewitchment:introduction/altars#internalme)ME$().$(br2)El Cetro se puede reparar usando Lingotes de Netherita."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "bewitchment:scepter"
+    }
+  ]
+}

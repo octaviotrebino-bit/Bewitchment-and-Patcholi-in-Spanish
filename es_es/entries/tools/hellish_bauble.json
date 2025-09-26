@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Burbuja Infernal",
+  "icon": "bewitchment:hellish_bauble",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A través del poder del fuego, la Burbuja Infernal hace que el portador sea inmune al fuego una vez encendida usando algo de $(l:bewitchment:introduction/altars#internalme)ME$().$(br2)Al estar hecha de Netherita, este objeto es completamente a prueba de fuego."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:hellish_bauble"
+    }
+  ]
+}

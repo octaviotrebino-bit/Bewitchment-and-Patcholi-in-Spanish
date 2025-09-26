@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Cinturón de Púas",
+  "icon": "bewitchment:prickly_belt",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Cinturón de Púas es un amuleto útil, capaz de almacenar efectos de estado.$(br2)Cuando es atacado, el portador recibirá efectos positivos y el atacante negativos, a costa de $(l:bewitchment:introduction/altars#internalme)ME$().$(br2)Para añadir un efecto de estado, simplemente combina el cinturón con una Poción."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:prickly_belt"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Baphomet",
+  "icon": "bewitchment:baphomet_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Baphomet, un antiguo $(l:bewitchment:creatures/demon)Gran Demon$() de la magia, primer nombre del fuego, llama, etc. etc. proporciona $(l:bewitchment:contracts/concept_contracts)Contratos$() a muchas brujas en todo el mundo.$(br2)Cuando $(l:bewitchment:tools/grotesque_stew)Se Compromete$(), uno puede comerciar con ellos por $(l:bewitchment:contracts/concept_contracts)Contratos$() mucho más baratos, y más de ellos.$(br2)Baphomet puede ser $(l:bewitchment:rituals/summon_baphomet)Invocado$() por cualquier bruja lo suficientemente fuerte."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:baphomet",
+      "offset": "0.2"
+    }
+  ]
+}

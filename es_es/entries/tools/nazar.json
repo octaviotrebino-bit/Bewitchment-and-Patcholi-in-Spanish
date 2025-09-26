@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Nazar",
+  "icon": "bewitchment:nazar",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Usando los poderes de la luz, los Nazars se usan comúnmente para protegerse contra las $(l:bewitchment:curses/conducting_curses)Maldiciones$().$(br2)Cuando se usan, reducirán la duración de cualquier $(l:bewitchment:curses/conducting_curses)Maldición$() a la mitad.$(br2)Esto requiere aproximadamente la mitad del $(l:bewitchment:introduction/altars#internalme)ME$() del portador."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:nazar"
+	}
+  ]
+}

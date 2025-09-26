@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Candelabros",
+  "icon": "bewitchment:iron_candelabra",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Candelabros son una fuente de iluminación elegante.$(br2)Se pueden encender con un pedernal y acero. Cuando se encienden, repelerán a los $(l:bewitchment:creatures/ghost)Fantasmas$(), impidiendo que se acerquen a ellos, y los mejores materiales aumentan el efecto repelente."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:iron_candelabra",
+      "recipe2": "bewitchment:golden_candelabra"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:silver_candelabra",
+      "recipe2": "bewitchment:netherite_candelabra"
+    }
+  ]
+}

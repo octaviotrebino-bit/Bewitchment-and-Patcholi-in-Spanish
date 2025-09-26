@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Leonard",
+  "icon": "bewitchment:leonard_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Leonard es el patrón de las brujas, $(l:bewitchment:brewing/brewing_basics)Brewing$() y...$(br2)Leonard es un $(l:bewitchment:creatures/demon)Demonio Mayor$(); puede ser $(l:bewitchment:tools/grotesque_stew)Pledge$() a él.$(br2)Las brujas $(l:bewitchment:tools/grotesque_stew)Pledged$() a Leonard pueden usar dos modificadores de potencia al $(l:bewitchment:brewing/brewing_basics)Brewing$() en lugar de uno. $(l:bewitchment:tools/grotesque_stew)Pledging$() a Leonard también permite a los jugadores $(l:bewitchment:tools/witch_cauldron#teleportation)Warp$() usando $(l:bewitchment:tools/witch_cauldron)Calderas de Brujas$() sin usar ningún $(l:bewitchment:introduction/altars)ME$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:leonard",
+      "offset": "0.2"
+    }
+  ]
+}

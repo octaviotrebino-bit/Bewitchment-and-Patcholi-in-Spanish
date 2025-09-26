@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Herne",
+  "icon": "bewitchment:herne_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Herne, el Señor de la Cacería Salvaje, es comúnmente $(l:bewitchment:tools/grotesque_stew)Pledged$() por los sufrientes $(l:bewitchment:curses/lycanthropy)Licantrópos$(). Puede otorgar casi total control sobre la $(l:bewitchment:curses/conducting_curses)Maldición$(), permitiendo a las víctimas transformarse a voluntad. Alternativamente, se le puede ofrecer $(l:bewitchment:introduction/crops)Aconito$(), eliminando la $(l:bewitchment:curses/conducting_curses)Maldición$() por completo.$(br2)Invocarlo es bastante elaborado, y se describirá en esta entrada."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:herne",
+      "offset": "0.2"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Invocando a Herne",
+      "text": "Para invocar a Herne, se necesitan varias cosas:$(li) un $(l:bewitchment:tools/brazier#mortal_coil)Incienso del Mortal Coil$()$(li) un Lobo $(li) un bioma de bosque o taiga$(br2)Primero, enciende el $(l:bewitchment:tools/brazier#incense)Incienso$() en el bioma correcto, por la noche. Luego necesitarás matar a un Lobo con un $(l:bewitchment:tools/athame)Athame$(), no muy lejos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Elige el lugar para hacer esto sabiamente; necesitarás mantener a Herne cerca si quieres $(l:bewitchment:tools/grotesque_stew)Pledge$() a él.$(br2)Una vez $(l:bewitchment:tools/grotesque_stew)Pledged$(), puedes alternar tu forma de lobo presionando [$(k:bewitchment.transformation_ability)]."
+    }
+  ]
+}

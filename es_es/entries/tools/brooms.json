@@ -1,0 +1,45 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Brasero",
+  "icon": "bewitchment:brazier",
+  "advancement": "minecraft:nether/find_fortress",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "El Brasero es una herramienta esencial para las $(l:bewitchment:curses/conducting_curses)Maldiciones$(). Aparte de eso, se puede usar para $(l:bewitchment:tools/brazier#incense)Incienso$().$(br2)Un Brasero puede contener hasta cuatro objetos. Para comenzar a usarlo, necesitas encenderlo con un pedernal y acero."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:brazier",
+	  "text": "Para mayor comodidad, los Braseros también se pueden unir a los techos."
+	},
+	{
+	  "type": "patchouli:text",
+	  "title": "Inciensos",
+	  "anchor": "incense",
+	  "text": "Los Inciensos son un método de uso simple del brasero. El Incienso puede aplicar efectos de estado extendidos después de despertarse.$(br2)Simplemente enciende un brasero cercano con los ingredientes necesarios y vete a dormir."
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/light",
+	  "recipe2": "bewitchment:incenses/dark"
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/water",
+	  "recipe2": "bewitchment:incenses/fire"
+	},
+	{
+	  "type": "bewitchment:incense_compressed",
+	  "recipe1": "bewitchment:incenses/earth",
+	  "recipe2": "bewitchment:incenses/air"
+	},
+	{
+	  "type": "bewitchment:incense",
+	  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+	  "recipe": "bewitchment:incenses/mortal_coil",
+	  "anchor": "mortal_coil",
+	  "text": "El Incienso de Bobina Mortal se usa para ritos bastante profanos.$(br2)$(o)Es posible que no quieras preparar esto antes de irte a la cama$()."
+	}
+  ]
+}

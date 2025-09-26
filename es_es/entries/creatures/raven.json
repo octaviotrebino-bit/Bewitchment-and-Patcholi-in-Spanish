@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Raven",
+  "icon": "bewitchment:raven_spawn_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los cuervos son aves oscuras que se pueden encontrar en llanuras y bosques. Cuando son asesinados, soltarán plumas.$(br2)Los cuervos se pueden domesticar con pepitas de oro o pepitas de plata, y criar con semillas de trigo."
+    },
+    {
+      "type": "patchouli:text",
+      "advancement": "bewitchment:hidden_unlocks/demon_heart",
+      "text": "Los cuervos se pueden vincular como $(l:bewitchment:rituals/binding)Familiares$(), permitiendo a la bruja reflejar ocasionalmente $(l:bewitchment:curses/conducting_curses)Maldiciones$().$(br2)Los $(l:bewitchment:rituals/binding)Familiares$() cuervo también duplican la duración de las $(l:bewitchment:curses/conducting_curses)Maldiciones$() lanzadas por la bruja, haciéndolas mucho más efectivas."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:raven",
+      "scale": "0.6"
+    }
+  ]
+}

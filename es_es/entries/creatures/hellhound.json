@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Hellhound",
+  "icon": "bewitchment:hellhound_spawn_egg",
+  "advancement": "minecraft:nether/root",
+  "extra_recipe_mappings": {
+    "bewitchment:demon_horn": "1"
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hellhounds aparecen en el inframundo.$(br2)Llenos de agresión, atacarán a cualquiera que esté cerca, aunque respetarán a quienes lleven $(l:bewitchment:tools/besmirched_armor)Armadura Manchada$().$(br2)Los hellhounds soltarán Cuernos Demoníacos."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:hellhound",
+      "scale": "0.6"
+    }
+  ]
+}

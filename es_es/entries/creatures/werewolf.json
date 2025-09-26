@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Hombre Lobo",
+  "icon": "bewitchment:werewolf_spawn_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los hombres lobo - víctimas de $(l:bewitchment:curses/lycanthropy)Licantrópia$() - deambulan por bosques, taigas y biomas helados en las lunas llenas. Son muy débiles ante el Golpe.$(br2)Cuando sale el sol, regresan a su forma humana."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:werewolf",
+      "offset": "0.1"
+    }
+  ]
+}

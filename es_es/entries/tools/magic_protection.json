@@ -1,0 +1,11 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Protección Mágica",
+  "icon": "minecraft:enchanted_book",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Protección Mágica es un encantamiento de armadura muy útil para las brujas que se baten en duelo. No solo reduce el daño mágico recibido, sino que también reducirá la duración de los efectos de poción negativos hasta en un 50%."
+    }
+  ]
+}

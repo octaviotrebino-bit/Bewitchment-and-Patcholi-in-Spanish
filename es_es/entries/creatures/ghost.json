@@ -1,0 +1,19 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Fantasma",
+  "icon": "bewitchment:ghost_spawn_egg",
+  "extra_recipe_mappings": {
+    "bewitchment:ectoplasm": "1"
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los fantasmas son almas perdidas, vagando por el despertar de la noche donde sea que puedan.$(br2)Al notar humanos cercanos, aplicarán sus maldiciones de corta duración en forma de efectos de estado negativos.$(br2)Los fantasmas soltarán ectoplasma."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:ghost",
+      "offset": "0.1"
+    }
+  ]
+}

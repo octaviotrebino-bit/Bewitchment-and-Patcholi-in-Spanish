@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:rituals",
+  "name": "Utilizar Sellos",
+  "icon": "bewitchment:mending_sigil",
+  "advancement": "minecraft:nether/find_fortress",
+  "priority": true,
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Los Sellos son símbolos mágicos de poder. Se pueden dividir en dos grupos: sellos activos y pasivos.$(br2)Los sellos activos deben colocarse en bloques utilizables o escobas hechas de $(l:bewitchment:introduction/dragons_blood_trees)Sangre de Dragón$().$(br2)Los sellos pasivos se pueden colocar en cualquier lugar y aplicarán su efecto a todo lo que los rodea."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Se pueden agregar $(l:bewitchment:tools/taglock)Candados de Etiqueta$() a los sellos para controlar a quién afectan. Si un sello está configurado para considerar los $(l:bewitchment:tools/taglock)Candados de Etiqueta$() como una lista blanca, el sello solo afectará a aquellos en ella. Si se establece como una lista negra, el sello no afectará a nadie de quien provenga el $(l:bewitchment:tools/taglock)Candado de Etiqueta$().$(br2)Usa un $(l:bewitchment:tools/athame)Athame$() mientras te agachas para alternar entre lista negra y lista blanca.$(br2)Cabe señalar que todos los sellos tienen una duración limitada."
+	}
+  ]
+}

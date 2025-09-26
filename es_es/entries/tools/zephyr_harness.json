@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Arnés de Céfiro",
+  "icon": "bewitchment:zephyr_harness",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Arnés de Céfiro hace que su portador sea imparable como el viento más fuerte, negando por completo la mayoría de las formas de retroceso.$(br2)Aparte de eso, el arnés permite a su portador lanzar entidades por los aires al golpearlas solo con su puño. Esto, sin embargo, consume $(l:bewitchment:introduction/altars#internalme)ME$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:zephyr_harness"
+    }
+  ]
+}

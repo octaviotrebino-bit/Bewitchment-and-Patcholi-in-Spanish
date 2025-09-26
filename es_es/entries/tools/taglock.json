@@ -1,0 +1,15 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Candado de Etiqueta",
+  "icon": "bewitchment:taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Candado de Etiqueta es otra herramienta esencial. Puede recolectar el cabello, la sangre y todas las cosas necesarias de una entidad para establecer una conexión. Para recolectar un candado de etiqueta de una entidad, acércate sigilosamente por detrás o busca su cama. Para recolectar un candado de etiqueta de una Cama, úsalo mientras te agachas para no dormir accidentalmente."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:taglock"
+    }
+  ]
+}

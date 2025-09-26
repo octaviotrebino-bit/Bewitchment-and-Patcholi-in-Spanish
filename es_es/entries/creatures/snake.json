@@ -1,0 +1,24 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Serpiente",
+  "icon": "bewitchment:snake_spawn_egg",
+  "extra_recipe_mappings": {
+    "bewitchment:snake_tongue": "0"
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las serpientes suelen aparecer en sabanas, desiertos y llanuras, donde cazan a otros animales, matándolos con su veneno.$(br2)Las serpientes pueden soltar su Lengua de Serpiente, aunque también puede adquirirse de $(l:bewitchment:creatures/hellhound)Sabuesos del Infierno$().$(br2)Las serpientes pueden ser domesticadas con Conejo Crudo y criadas con Pollo Crudo."
+    },
+    {
+      "type": "patchouli:text",
+      "advancement": "bewitchment:hidden_unlocks/demon_heart",
+      "text": "Las serpientes pueden ser $(l:bewitchment:rituals/binding)Familiares$(). Las brujas con un Familiar de Serpiente $(l:bewitchment:rituals/binding)Familiar$() pueden crear $(l:bewitchment:sigils/using_sigils)Sigilos$() mucho más duraderos.$(br2)Además, se benefician del veneno; no les hace daño y rellena su $(l:bewitchment:introduction/altars#internalme)Búfer Interno ME$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:snake",
+      "scale": "0.6"
+    }
+  ]
+}

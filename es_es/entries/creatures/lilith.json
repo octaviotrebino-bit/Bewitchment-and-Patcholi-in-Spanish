@@ -1,0 +1,26 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Lilith",
+  "icon": "bewitchment:lilith_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Lilith, la madre-montaña de $(l:bewitchment:creatures/vampire)Vampiros$() a menudo es invocada para otorgar a las víctimas de $(l:bewitchment:curses/vampirism)Vampirismo$() poderes superiores.$(br2)$(l:bewitchment:tools/grotesque_stew)Ofrecer$() a ella les permite cambiar libremente su forma a la de un murciélago, permitiéndoles vagar libremente. Alternativamente, se le puede ofrecer $(l:bewitchment:introduction/crops)Ajo$(), liberando a la víctima de su $(l:bewitchment:curses/conducting_curses)Maldición$()."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:lilith",
+      "offset": "0.2"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Invocando a Lilith",
+      "text": "Para invocar a Lilith, se necesitan varias cosas:$(li)un $(l:bewitchment:tools/brazier#mortal_coil)Incienso de Mortal Coil$()$(li)un Pollo $(li)un bioma montañoso o helado$(br2)Primero, enciende el $(l:bewitchment:tools/brazier#incense)Incienso$() en el bioma correcto, de noche. Luego necesitarás matar a un Pollo con un $(l:bewitchment:tools/athame)Athame$(), no muy lejos."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Querrás mantener a Lilith cerca si deseas $(l:bewitchment:tools/grotesque_stew)Ofrecer$() a ella, así que decide sabiamente dónde invocarla.$(br2)Una vez $(l:bewitchment:tools/grotesque_stew)Ofrecido$(), puedes alternar tu forma de murciélago presionando [$(k:bewitchment.transformation_ability)]."
+    }
+  ]
+}

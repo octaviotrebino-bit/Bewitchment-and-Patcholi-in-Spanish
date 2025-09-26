@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Caduceo",
+  "icon": "bewitchment:caduceus",
+  "advancement": "bewitchment:hidden_unlocks/caduceus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Caduceo es la herramienta preferida de $(l:bewitchment:creatures/baphomet)Baphomet$().$(br2)Tiene una funcionalidad de múltiples herramientas comparable a la de la Netherita. También se puede usar para lanzar poderosas bolas de fuego a costa de algo de $(l:bewitchment:introduction/altars#internalme)ME$().$(br2)El Caduceo se puede reparar con Lingotes de Netherita."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "bewitchment:caduceus"
+    }
+  ]
+}

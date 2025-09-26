@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Armadura de Alquimista",
+  "icon": "bewitchment:alchemist_robes",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Esta alta costura le permite al portador dominar la $(l:bewitchment:brewing/brewing_basics)Elaboración de Pociones$(), duplicando la duración de los $(l:bewitchment:brewing/brewing_basics)Preparados$().$(br2)Las alfombras hechas del mismo tejido se pueden colocar en los $(l:bewitchment:introduction/altars)Altares$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:alchemist_hat",
+      "recipe2": "bewitchment:alchemist_hood"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:alchemist_robes",
+      "recipe2": "bewitchment:alchemist_pants"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:alchemist_wool",
+      "recipe2": "bewitchment:alchemist_carpet"
+    }
+  ]
+}

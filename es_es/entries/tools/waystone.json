@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Piedra de Camino",
+  "icon": "bewitchment:waystone",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Piedras de Camino están infundidas con energía del Ender, lo que las hace capaces de almacenar ubicaciones.$(br2)Esto, a su vez, les permite redirigir $(l:bewitchment:rituals/rituals)Rituales$(), lanzándolos en un lugar diferente.$(br2)Para redirigir un $(l:bewitchment:rituals/rituals)Ritual$(), usa la Piedra de Camino en la $(l:bewitchment:rituals/rituals#chalk)Tiza Dorada$() después de que el $(l:bewitchment:rituals/rituals)Ritual$() haya comenzado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:waystone"
+    }
+  ]
+}

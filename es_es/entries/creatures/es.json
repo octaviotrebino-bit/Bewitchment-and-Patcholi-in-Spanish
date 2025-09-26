@@ -1,0 +1,24 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Búho",
+  "icon": "bewitchment:owl_spawn_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los búhos suelen estar activos durante la noche y generalmente aparecen en bosques y taigas. Sueltan plumas, como cualquier ave.$(br2)Los búhos pueden ser domesticados con conejo crudo y criados con pollo crudo."
+    },
+    {
+      "type": "patchouli:text",
+      "advancement": "bewitchment:hidden_unlocks/demon_heart",
+      "text": "Como un posible $(l:bewitchment:rituals/binding)Familiar$(), los búhos aumentarán la capacidad de vuelo de su amigo, es decir, harán que los $(l:bewitchment:tools/brooms)Escobas$() no cuesten $(l:bewitchment:introduction/altars#internalme)ME$().$(br2)Además, no recibirán daño por caída, en caso de que de alguna manera caigan.",
+      "entity": "minecraft:cat",
+      "scale": "0.6"
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:owl",
+      "scale": "0.6"
+    }
+  ],
+  "advancement": "bewitchment:hidden_unlocks/demon_heart"
+}

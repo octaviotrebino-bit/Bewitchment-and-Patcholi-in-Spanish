@@ -1,0 +1,47 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Zarzas",
+  "icon": "bewitchment:thick_bramble",
+  "advancement": "bewitchment:hidden_unlocks/witch_cauldron",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Zarzas son malas hierbas de bruja, creadas artificialmente con la ayuda de $(l:bewitchment:brewing/elemental_oils)Aceite Elemental$().$(br2)Cada zarza tiene un efecto único relacionado con su elemento."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:glowing_bramble",
+      "text": "La Zarza Brillante emite luz y evita que los mobs aparezcan en un radio de 24 bloques."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:ender_bramble",
+      "text": "La Zarza del Ender teletransportará cualquier cosa que choque con ella a una ubicación aleatoria dentro de un radio de 64 bloques."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:fruiting_bramble",
+      "text": "La Zarza Fructífera hará crecer las Bayas de Bruja, que se pueden usar para crear golosinas que restauran $(l:bewitchment:introduction/altars#internalme)ME$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:scorched_bramble",
+      "text": "La Zarza Abrasada prenderá fuego a las entidades. También se puede usar como un combustible relativamente decente."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:thick_bramble",
+      "text": "Debido a su increíble grosor, la Zarza Gruesa solo se puede atravesar mientras te escabulles."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:fleeting_bramble",
+      "text": "La Zarza Fugaz lanzará al aire a cualquier cosa que entre en ella, a menos que esté agachado."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:witchberry_pie",
+      "recipe2": "bewitchment:witchberry_cookie"
+    }
+  ]
+}

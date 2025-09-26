@@ -1,0 +1,27 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Caldero de Bruja",
+  "icon": "bewitchment:witch_cauldron",
+  "priority": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Al reforzar un Caldero normal con $(l:bewitchment:introduction/silver)Plata$(), puedes crear un Caldero de Bruja.$(br2)Este caldero mágico es extremadamente versátil en su uso y se utiliza principalmente para la $(l:bewitchment:brewing/elemental_oils)Elaboración de Aceite$(), la $(l:bewitchment:brewing/brewing_basics)Preparación de Pociones$() y la Teletransportación."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:witch_cauldron"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Uso",
+      "text": "Se pueden arrojar objetos al Caldero de Bruja una vez que hierva. Para que hierva, coloca bloques calientes como Lava o Bloques de Magma debajo de él.$(br2)Ten en cuenta que el Caldero de Bruja requiere $(l:bewitchment:introduction/altars)Poder de Altar$(), excepto para la $(l:bewitchment:brewing/elemental_oils)Elaboración de Aceite$()."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Teletransportación",
+      "anchor": "teleportation",
+      "text": "Para teletransportarte con un Caldero de Bruja, simplemente lanza una Perla de Ender, párate sobre ella y di tu destino. Ese destino debe ser otro Caldero de Bruja que haya sido nombrado con una Etiqueta de Nombre.$(br2)El costo de la teletransportación es distancia / 2, asumiendo que no tienes a $(l:bewitchment:creatures/leonard)Alguien$() que te ayude."
+    }
+  ]
+}

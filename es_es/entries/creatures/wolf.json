@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Lobo",
+  "icon": "minecraft:wolf_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los Lobos Domesticados son criaturas preciosas; cuando su amigo está en necesidad, generalmente están listos para ayudar, incluso arriesgando su propia vida.$(br2)Cuando están atados como un $(l:bewitchment:rituals/binding)Familiar$(), los lobos aumentarán la durabilidad de los $(l:bewitchment:poppets/poppet_practice)Muñecos$().$(br2)Su espíritu protector también aumentará naturalmente la armadura de su bruja."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:wolf",
+      "scale": "0.6"
+    }
+  ]
+}

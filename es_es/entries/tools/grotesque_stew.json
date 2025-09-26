@@ -1,0 +1,22 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Estofado Grotesco",
+  "priority": true,
+  "icon": "bewitchment:grotesque_stew",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Asqueroso.$(br2)Este estofado cuestionable es parte del rito de compromiso.$(br2)Al beber mientras mira profundamente a los ojos de un $(l:bewitchment:creatures/demon)Demonio Mayor$(), una bruja puede comprometerse con ellos.$(br2)Comprometerse con un $(l:bewitchment:creatures/demon)Demonio Mayor$() tiene beneficios únicos que dependen del $(l:bewitchment:creatures/demon)Demonio$()."
+	},
+	{
+	  "type": "patchouli:text",
+	  "text": "Los beneficios exactos se describen en las entradas correspondientes.$(br2)Un $(l:bewitchment:creatures/demon)Demonio$() con el que se ha comprometido debe permanecer en el mundo para que el compromiso esté activo, y una bruja solo puede comprometerse con un solo $(l:bewitchment:creatures/demon)Demonio$() a la vez.$(br2)Atacar al $(l:bewitchment:creatures/demon)Demonio$() de cualquier manera revocará inmediatamente el compromiso."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:grotesque_stew",
+	  "text": "Es importante tener en cuenta que las brujas que manchan su alma de esta manera son propensas a las mismas debilidades que los $(l:bewitchment:creatures/demon)Demonios$()."
+	}
+  ]
+}

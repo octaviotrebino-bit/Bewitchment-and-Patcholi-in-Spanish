@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Banda de Druida",
+  "icon": "bewitchment:druid_band",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La Banda de Druida es un poderoso amuleto de la tierra.$(br2)Cuando se usa, aumentará tu velocidad de movimiento y regeneración, siempre que camines sobre tierra natural como la hierba.$(br2)Cuando está activa, la Banda de Druida consume $(l:bewitchment:introduction/altars#internalme)ME$()."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:druid_band"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Brazalete Espectral",
+  "icon": "bewitchment:specter_bangle",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Este magnífico amuleto doblará las sombras alrededor del portador mientras se esté agachando.$(br2)Hacerlo consumirá $(l:bewitchment:introduction/altars#internalme)ME$() y volverá al usuario completamente invisible, con solo un ligero humo indicando su presencia."
+	},
+	{
+	  "type": "patchouli:crafting",
+	  "recipe": "bewitchment:specter_bangle"
+	}
+  ]
+}

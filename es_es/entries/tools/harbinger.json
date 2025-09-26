@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Heraldo",
+  "icon": "bewitchment:harbinger",
+  "advancement": "bewitchment:hidden_unlocks/harbinger",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Adquiridos al derrotar a la $(l:bewitchment:creatures/lilith)Reina Vampiro$() en batalla, estos zapatos tienen una protección comparable a las Botas de Netherita.$(br2)Debido a sus energías oscuras, los no-muertos son neutrales hacia el portador.$(br2)El Heraldo se puede reparar usando Lingotes de Netherita."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:harbinger"
+	}
+  ]
+}

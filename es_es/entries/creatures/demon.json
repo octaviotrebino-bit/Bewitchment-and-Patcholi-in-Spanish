@@ -1,0 +1,20 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Demon",
+  "icon": "bewitchment:demon_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_horn",
+  "extra_recipe_mappings": {
+    "bewitchment:demon_heart": "1"
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Seres siniestros que emergen directamente de los abismos del Infierno, los Demonios suelen ser $(l:bewitchment:rituals/summon_demon)Invocados$() y atacarán a cualquier ser vivo a su alrededor con fuego, y son débiles ante el Smite.$(br2)Los Demonios pueden ser abordados de manera segura con $(l:bewitchment:tools/besmirched_armor)Armadura Manchada$(), ofreciendo $(l:bewitchment:contracts/concept_contracts)Contratos$().$(br2)Matar a un Demonio dará como resultado al menos un Corazón de Demonio."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:demon",
+      "offset": "0.2"
+    }
+  ]
+}

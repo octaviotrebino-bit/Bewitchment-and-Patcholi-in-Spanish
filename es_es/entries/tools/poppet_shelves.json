@@ -1,0 +1,42 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Estanterías para Poppet",
+  "icon": "bewitchment:oak_poppet_shelf",
+  "advancement": "bewitchment:hidden_unlocks/taglock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Estanterías para Poppet son un bonito mueble. Pueden almacenar hasta nueve $(l:bewitchment:poppets/poppet_practice)Poppets$(), que están todos activos.$(br2)Esto hace que las Estanterías para Poppet sean buenas para liberar espacio en el inventario, mientras se tienen todos los $(l:bewitchment:poppets/poppet_practice)Poppets$() listos."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:oak_poppet_shelf",
+      "recipe2": "bewitchment:spruce_poppet_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:birch_poppet_shelf",
+      "recipe2": "bewitchment:jungle_poppet_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:acacia_poppet_shelf",
+      "recipe2": "bewitchment:dark_oak_poppet_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:crimson_poppet_shelf",
+      "recipe2": "bewitchment:warped_poppet_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:juniper_poppet_shelf",
+      "recipe2": "bewitchment:cypress_poppet_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:elder_poppet_shelf",
+      "recipe2": "bewitchment:dragons_blood_poppet_shelf"
+    }
+  ]
+}

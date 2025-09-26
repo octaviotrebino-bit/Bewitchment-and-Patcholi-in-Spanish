@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Athame",
+  "priority": true,
+  "icon": "bewitchment:athame",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "El Athame es una herramienta esencial para cualquier bruja. Se puede usar para recolectar cabezas de mobs, entre otros usos de nicho.$(br2)Al estar hecho de $(l:bewitchment:introduction/silver)Plata$(), es perfectamente utilizable contra criaturas impías.$(br2)Se pueden obtener Botellas de Sangre matando a un humanoide con un Athame mientras se sostiene una Botella de Cristal en la mano izquierda."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:athame",
+      "text": "Los Athames también se pueden usar para iniciar $(l:bewitchment:rituals/rituals)Rituales$() desde un Dispensador."
+    }
+  ]
+}

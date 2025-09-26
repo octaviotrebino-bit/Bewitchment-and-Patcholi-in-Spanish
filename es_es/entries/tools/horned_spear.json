@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Lanza con Cuernos",
+  "icon": "bewitchment:horned_spear",
+  "advancement": "bewitchment:hidden_unlocks/horned_spear",
+  "pages": [
+	{
+	  "type": "patchouli:text",
+	  "text": "Esta lanza es el arma de caza de $(l:bewitchment:creatures/herne)Herne$().$(br2)Al igual que un Tridente, se puede lanzar hacia un objetivo y siempre regresará a quien la arrojó.$(br2)La Lanza con Cuernos se puede reparar usando Lingotes de Netherita."
+	},
+	{
+	  "type": "patchouli:spotlight",
+	  "item": "bewitchment:horned_spear"
+	}
+  ]
+}

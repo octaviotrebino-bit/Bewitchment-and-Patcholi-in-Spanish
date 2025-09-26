@@ -1,0 +1,17 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Gato",
+  "icon": "minecraft:cat_spawn_egg",
+  "advancement": "bewitchment:hidden_unlocks/demon_heart",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los gatos son cosas quisquillosas. Aun así, su mera presencia es relajante para muchos.$(br2)Cuando se vinculan como un $(l:bewitchment:rituals/binding)Familiar$(), los Gatos ayudarán en gran medida con los $(l:bewitchment:rituals/rituals)Rituales$().$(br2)Además, los Creepers y Phantoms se mantendrán alejados de las brujas con un $(l:bewitchment:rituals/binding)Familiar$() Gato."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:cat",
+      "scale": 0.6
+    }
+  ]
+}

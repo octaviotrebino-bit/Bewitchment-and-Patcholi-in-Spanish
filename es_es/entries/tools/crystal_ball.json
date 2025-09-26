@@ -1,0 +1,16 @@
+{
+  "category": "bewitchment:tools",
+  "name": "Bola de Cristal",
+  "icon": "bewitchment:crystal_ball",
+  "advancement": "bewitchment:hidden_unlocks/altars",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Las Bolas de Cristal son herramientas de adivinación comunes.$(br2)Cuando se usan, le darán al lanzador una fortuna, a costa de algo de $(l:bewitchment:introduction/altars)ME$() extraída de un $(l:bewitchment:introduction/altars)Altar$() cercano.$(br2)Además, las Bolas de Cristal se pueden usar para adivinar. Cuando se usan con un $(l:bewitchment:tools/taglock)Candado de Etiqueta$(), darán información precisa sobre el objetivo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "bewitchment:crystal_ball"
+    }
+  ]
+}

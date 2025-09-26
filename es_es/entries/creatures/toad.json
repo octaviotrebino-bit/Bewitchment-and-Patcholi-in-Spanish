@@ -1,0 +1,21 @@
+{
+  "category": "bewitchment:creatures",
+  "name": "Sapo",
+  "icon": "bewitchment:toad_spawn_egg",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Los sapos se pueden encontrar en junglas y pantanos, saltando felizmente. Al ser asesinados, los sapos soltarán bolas de slime.$(br2)Los sapos se pueden domesticar con ojos de araña fermentados y criar con ojos de araña normales."
+    },
+    {
+      "type": "patchouli:text",
+      "advancement": "bewitchment:hidden_unlocks/demon_heart",
+      "text": "Un Sapo $(l:bewitchment:rituals/binding)Familiar$() otorga a la bruja que lo vinculó efectos de estado positivos mejorados.$(br2)Matar artrópodos también curará a tales brujas en un cuarto de su salud máxima."
+    },
+    {
+      "type": "patchouli:entity",
+      "entity": "bewitchment:toad",
+      "scale": "0.6"
+    }
+  ]
+}
